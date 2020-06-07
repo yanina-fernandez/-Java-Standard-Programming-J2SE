@@ -6,4 +6,8 @@
   <packaging>pom</packaging>
   <name>parent</name>
   <description>proyecto padre del curso jse web</description>
+  <modules>
+  	<module>domain</module>
+  	<module>services</module>
+  </modules>
 </project>
